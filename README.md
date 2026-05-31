@@ -7,7 +7,7 @@
 
 > A machine learning web app that predicts IPL match winners based on historical data from 2008–2019.
 
-🔴 **[Live Demo →](https://YOUR-APP-LINK.streamlit.app)**
+🔴 **[Live Demo →](https://iplmatchpredictor-fjgyd2crf39uzcwrucxryr.streamlit.app/)**
 
 ---
 
